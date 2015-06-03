@@ -2,9 +2,6 @@
 html
 <html>
 <title>
-hi
+lusu
 </title>
-<body>
-hello
-</body>
 </html>
